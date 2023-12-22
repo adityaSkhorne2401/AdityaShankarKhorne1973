@@ -43,10 +43,15 @@ const projectList = [
     url: "https://instagram.com/adityaskhorne?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
+<<<<<<< HEAD
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/adityaSkhorne2401/AdityaShankarKhorne1973.git",
+=======
+      "here's my resume, feel free to connect with me and let's talk about tech and life!",
+    url: "https://github.com/adityaSkhorne2401/my-Resume.git",
+>>>>>>> 185275d24b93f4b7c499c9cbb151a2cf002212af
   },
   {
     title: "my You-Tube account",
