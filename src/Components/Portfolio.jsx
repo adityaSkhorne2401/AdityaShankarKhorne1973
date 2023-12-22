@@ -43,10 +43,10 @@ const projectList = [
     url: "https://instagram.com/adityaskhorne?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
   },
   {
-    title: "My Medium account",
+    title: "My Resume",
     description:
-      "my medium account, feel free to connect with me and let's talk about tech and life!",
-    url: "https://medium.com/me/settings/account",
+      "here's my resume, feel free to connect with me and let's talk about tech and life!",
+    url: "https://github.com/adityaSkhorne2401/my-Resume.git",
   },
   {
     title: "my You-Tube account",
