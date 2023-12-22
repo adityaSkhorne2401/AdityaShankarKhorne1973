@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://adityaskhorne2401.github.io/AdityaShankarKhorne1973/",
+    url: "https://github.com/adityaSkhorne2401/AdityaShankarKhorne1973.git",
   },
   {
     title: "my You-Tube account",
